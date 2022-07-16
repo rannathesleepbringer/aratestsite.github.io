@@ -1,0 +1,36 @@
+---
+title: "HPM Special Event"
+subtitle: "... in honor of ARRL co-founder Hiram Percy Maxim"
+tags: []
+date: 2021-08-31
+author: "Garry Laing, W3GTL"
+draft: true
+---
+## ARA Special Event Station
+<!---
+### September 2 - September 5, 2021 -- The Antietam Radio Association is holding a special event honoring the 152nd Anniversary of the birth of ARRL co-founder, Hiram Percy Maxim. 
+--->
+#### Special Call Sign W3HPM -- looking for volunteers to help make this year a successful event!
+
+We plan on operating 20, 40, and 80 meters on phone, or CW on any band. As is customary, you will keep a log of your contacts to aid in fulfilling the QSL requests. Operate from your home QTH!
+
+Please contact Garry Laing, the event organizer, at GTLAING@YAHOO.COM with your preferred time slot -- we are hoping to have all slots filled, and would like to follow the pre-planned staffing arrangements rather than trying to coordinate live via one of our repeaters to ensure that we are not broadcasting simultaneously with another club member under the W3HPM call, which FCC regulations restricts.
+
+Suggested time slots are below: 
+Day/Date|Time
+---|---
+Thur Sept 2|4P–6P
+-|6P–8P
+Fri Sept 3|4P–6P
+-|6P–8P
+Sat Sept 4|4P–6P
+-|6P–8P
+Sun Sept 5|4P–6P
+-|6P–8P
+
+Other time slots may certainly be utilized, however, please coordinate with Garry to ensure that we are always adhering to FCC regulations.  
+
+So why not give your HF rig a little exercise and join with us this year to make this a successful celebration! We currently have several operators for this event, with a mixture of CW and SSB modes. 
+#### [Contact Garry Laing, W3GTL, *today* to reserve your operating slot!](mailto:gtlaing@yahoo.com) 
+  
+    
