@@ -175,7 +175,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     identifier = "resources"
-    name = "https://w3cwc.org//Resources"
+    name = "Resources"
     weight = 3
 
 [[menu.main]]
