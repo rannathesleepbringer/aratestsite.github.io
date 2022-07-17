@@ -81,18 +81,18 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Contact"
-    url = "contact"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/contact"
     weight = 2
 
 [[menu.main]]
     identifier = "activities"
-    name = "Activities"
+    name = "https://rannathesleepbringer.github.io/aratestsite.github.io/Activities"
     weight = 3
 
 [[menu.main]]
     parent = "activities"
     name = "Event Calendar"
-    url = "event-calendar"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/event-calendar"
     weight = 4
 
 #
@@ -106,7 +106,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "activities"
     name = "Monthly Breakfast"
-    url = "breakfast"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/breakfast"
     weight = 5
 
 [[menu.main]]
@@ -118,64 +118,64 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "activities"
     name = "ARRL Field Day"
-    url = "field-day"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/field-day"
     weight = 7
 
 [[menu.main]]
     identifier = "info"
-    name = "Club Info"
+    name = "https://rannathesleepbringer.github.io/aratestsite.github.io/Club Info"
     weight = 2
 
 [[menu.main]]
     parent = "info"
     name = "Get Your License!"
-    url = "testing"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/testing"
 
 [[menu.main]]
     parent = "info"
     name = "Join us!"
-    url = "membership"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/membership"
     weight = 1
 
     [[menu.main]]
     parent = "info"
     name = "Contact Us!"
-    url = "contact"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/contact"
     weight = 1
 
 [[menu.main]]
     parent = "info"
     name = "ARA Bylaws"
-    url = "bylaws"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/bylaws"
     weight = 2
 
 [[menu.main]]
     parent = "info"
     name = "ARA Meetings"
-    url = "meeting-info"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/meeting-info"
     weight = 5
 
 [[menu.main]]
     parent = "info"
     name = "Life Members"
-    url = "life-members"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/life-members"
     weight = 4
 
 [[menu.main]]
     parent = "info"
     name = "ARA Officers"
-    url = "officers"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/officers"
     weight = 6
 
 [[menu.main]]
     parent = "info"
     name = "Nets & Repeaters"
-    url = "nets-repeaters"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/nets-repeaters"
     weight = 7
 
 [[menu.main]]
     identifier = "resources"
-    name = "Resources"
+    name = "https://rannathesleepbringer.github.io/aratestsite.github.io/Resources"
     weight = 3
 
 [[menu.main]]
@@ -186,7 +186,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "resources"
     name = "Presentations"
-    url = "presentations"
+    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/presentations"
 
 [[menu.topbar]]
   weight   = 5
