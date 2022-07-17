@@ -1,27 +1,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antietam Radio – </title>
-    <link>https://rannathesleepbringer.github.io/</link>
+    <link>https://rannathesleepbringer.github.io/aratestsite.github.io/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>admin@w3cwc.com (Antietam Radio Association)</managingEditor>
     <webMaster>admin@w3cwc.com (Antietam Radio Association)</webMaster>
     <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rannathesleepbringer.github.io/img/hugo.png</url>
+      <url>https://rannathesleepbringer.github.io/aratestsite.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
-      <link>https://rannathesleepbringer.github.io/</link>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/</link>
     </image>
     
-		  <atom:link href="https://rannathesleepbringer.github.io/index.xml" rel='self' type="application/rss+xml" />
+		  <atom:link href="https://rannathesleepbringer.github.io/aratestsite.github.io/index.xml" rel='self' type="application/rss+xml" />
     
     
     <item>
+      <title>: Field Day 2022</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/field-day/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/field-day/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;welcome-to-field-day-2022&#34;&gt;Welcome to Field Day 2022&lt;/h3&gt;
+&lt;p&gt;The ARA will follow the &lt;em&gt;highly successful&lt;/em&gt; setup procedures that we first tested last year (2021);  we setup the antennas Friday at a &lt;em&gt;little&lt;/em&gt; more leisurely pace. The schedule change (from traditional Saturday morning setups) provided much needed time for testing, reconfiguring, and re-testing throughout the day &amp;ndash; followed by a final round of tweaking and radio setup Saturday morning.&lt;/p&gt;
+&lt;p&gt;During the build-out of the Ruritan&amp;rsquo;s new building, completed in mid-2021, we were fortunate that they had added an underground cable conduit in their building plans. We plan to use the new conduit for the first time this year to run the power cables, hopefully eliminating cables running over the road&amp;rsquo;s surface.&lt;/p&gt;
+&lt;p&gt;New this year are several filters that we&amp;rsquo;ve recently purchased to help reduce interference between stations even further.&lt;/p&gt;
+&lt;p&gt;We will begin setup on Friday, June 24 at 9A; Saturday setup begins at 9A.&lt;/p&gt;
+&lt;p&gt;Saturday&amp;rsquo;s dinner is &lt;strong&gt;scheduled&lt;/strong&gt; for 5P, but is &lt;em&gt;not&lt;/em&gt; set in stone. It may be a bit earlier/later, depending on members&amp;rsquo; needs and desires. The club will provide:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fried Chicken&lt;/li&gt;
+&lt;li&gt;Mac and Cheese&lt;/li&gt;
+&lt;li&gt;Baked Beans&lt;/li&gt;
+&lt;li&gt;Potato Salad&lt;/li&gt;
+&lt;li&gt;Cole Slaw&lt;/li&gt;
+&lt;li&gt;Disposable plates, cups, napkins, etc&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Members may bring whatever other items they choose to help supplement &amp;ndash; Desserts, snacks, cookies, cake/pie, etc&amp;hellip; are welcome &lt;em&gt;and&lt;/em&gt; appreciated! Those items that do not require refrigeration are  best suited for this application.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Throughout the day the ARA will also provide:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Water&lt;/li&gt;
+&lt;li&gt;Sodas of assorted varieties&lt;/li&gt;
+&lt;li&gt;Ice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Steve, WA8EIH, recently emailed an email blast to the entire membership &amp;ndash; &lt;a href=&#34;https://mcusercontent.com/724fd30e7841f212f47abc209/files/520cae28-111c-48a8-b514-8c78ee929337/2022_ARA_FD_Announcement.01.pdf&#34;&gt;click here to read the notice&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Field Day is always the fourth full weekend of June, beginning at 1800 UTC Saturday and running through 2059 UTC Sunday (2:00PM Saturday - 4:59PM Sunday). It is the time of the year that nearly all hams looks forward to &amp;ndash; partially because of the chance to stretch their rigs&amp;rsquo; legs and/or try out new antennas, but mainly because of the shared experiences and fellowship with their fellows operators.&lt;/p&gt;
+&lt;p&gt;The Antietam Radio Association usually holds its Field Day at the Leitersburg Ruritan Park, in Leitersburg, MD.&lt;/p&gt;
+&lt;p&gt;This year, Field Day 2022, operations will encompass June 25 &amp;amp; 26, beginning at 2 PM ET (1800 UTC) Saturday and continuing for 24 hours until 2 PM ET (1800 UTC) Sunday.&lt;/p&gt;
+&lt;p&gt;Thanks to Nelson Sollenberger, KA2C (this year&amp;rsquo;s Field Day technical guru) and Steve Struharik, WA8EIH (&lt;em&gt;the man behind the curtain&lt;/em&gt;), we have included several files that provide instruction on different aspects of setup. Download your copies now!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./images/Field_Day_Layout_2022.pdf&#34;&gt;Field Day Layout (aerial view)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./images/Inverted_Vee_80-40_Mast_Raising.pdf&#34;&gt;Inverted Vee 80/40 Raising&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./images/Spiderbeam_Raising.pdf&#34;&gt;Spider Beam Assembly and Raising&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./images/Trap_Dipole_80-40-20-15-10_Raising.pdf&#34;&gt;Trap Dipole 80/40/20/15/10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./images/FD_Safety_Officer.pdf&#34;&gt;Safety Officer Checklist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./images/FD_Summary_21-Jun.pdf&#34;&gt;Field Day Summary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./images/FD_Tuned_Radials_RF_Ground.pdf&#34;&gt;Tuned Radials RF Ground&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./images/FD_Weather_Forecast.pdf&#34;&gt;Weather Forecast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please join us!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.arrl.org/field-day&#34;&gt;CLICK HERE for the official rules and ARRL operating procedures for Field Day 2022.&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>: Hamfest 2022</title>
-      <link>https://rannathesleepbringer.github.io/hamfest/</link>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/hamfest/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <author>admin@w3cwc.com (Antietam Radio Association)</author>
-      <guid>https://rannathesleepbringer.github.io/hamfest/</guid>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/hamfest/</guid>
       <description>
         
         
@@ -128,11 +180,124 @@
     </item>
     
     <item>
+      <title>: Contact Us!</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/contact/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/contact/</guid>
+      <description>
+        
+        
+        &lt;p&gt;You may contact many members of the ARA via email, telephone or send directly to the club&amp;rsquo;s Post Office Box.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;General Email:&lt;/em&gt; &lt;strong&gt;&lt;a href=&#34;mailto:admin@w3cwc.com&#34;&gt;admin@w3cwc.com&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+This is a monitored email inbox, though it may take a few days to receive a reply, since the the one monitoring the box may not be the one who can best answer your question.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!---
+*  *Phone Number:* **301-842-6221**  
+We do not have a direct phone number, per se, however, the Secretary of the ARA has provided a Google Voice phone number to help differentiate ARA calls from private calls. Please note that call may not be answered immediately, but please do leave a message, and your call will be returned.
+---&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Mailing Address:&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Antietam Radio Association&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Post Office Box 52&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Hagerstown, MD 21741-0052&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This page will be updated with more points of contact as permission to post them on the site is granted.&lt;/p&gt;
+&lt;p&gt;President:&lt;br&gt;
+Brian Umbrill, W3PDW&lt;br&gt;
+&lt;a href=&#34;https://www.qrz.com/lookup&#34;&gt;email in QRZ.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vice President:&lt;br&gt;
+Herm Niedielski, K2AVA&lt;br&gt;
+&lt;a href=&#34;https://www.qrz.com/lookup&#34;&gt;email in QRZ.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Secretary:&lt;br&gt;
+Bill Collins, K3WJC &lt;br&gt;
+&lt;a href=&#34;mailto:colli020@gmail.com&#34;&gt;colli020@gmail.com&lt;/a&gt;&lt;br&gt;
+304-676-9391&lt;/p&gt;
+&lt;p&gt;Treasurer:&lt;br&gt;
+Tim Keener, N3VGS&lt;/p&gt;
+&lt;p&gt;Activities Coordinator:&lt;br&gt;
+Steve Struharik, WA8EIH&lt;br&gt;
+&lt;a href=&#34;https://www.qrz.com/lookup&#34;&gt;email in QRZ.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Directors:&lt;br&gt;
+Cliff Engle, W3KKO&lt;br&gt;
+Pat Goodrich,	KB3YSV&lt;br&gt;
+Robbie McFerren, KB3PXR&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: Hamfest 2021</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/hamfest2021/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/hamfest2021/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;new-823-hamfest-flyerimages2021-ara-tailgatefestpdf&#34;&gt;NEW-8/23: &lt;a href=&#34;./images/2021-ARA-TailgateFest.pdf&#34;&gt;Hamfest Flyer&lt;/a&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;located-at&#34;&gt;&lt;em&gt;Located at:&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;maugansville-bible-bretheren-church&#34;&gt;MAUGANSVILLE BIBLE BRETHEREN CHURCH&lt;/h4&gt;
+&lt;h4 id=&#34;17904-binkley-avenue&#34;&gt;17904 BINKLEY AVENUE&lt;/h4&gt;
+&lt;h4 id=&#34;maugansville-md-21767&#34;&gt;MAUGANSVILLE, MD 21767&lt;/h4&gt;
+&lt;h4 id=&#34;8am---12pm&#34;&gt;8AM - 12PM&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;pricing&#34;&gt;&lt;em&gt;Pricing:&lt;/em&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;$5 Per Person
+$5 Per Tailgate space (Tailgate ticket includes one admission ticket)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;See the ARRL &lt;a href=&#34;https://www.arrl.org/hamfests/hagerstown-tailgate-fest&#34;&gt;&lt;em&gt;Hamfests and Conventions page&lt;/em&gt;&lt;/a&gt; for contact information and venue location (via Google Maps).&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;It is important to note that this special event hamfest will be more of a tailgating event and less of the Great Hagerstown Hamfest that we have all come to know and love.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A few things that you &lt;strong&gt;should not expect&lt;/strong&gt; are:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;Food Concessions&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Inside Vendors&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Speakers&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Things are still in flux as to what we will and will not do, but those three seem to be the main ones that keep getting mentioned.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What you &lt;strong&gt;can expect&lt;/strong&gt; are:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tailgaing&lt;/li&gt;
+&lt;li&gt;Chance at some really good deals&lt;/li&gt;
+&lt;li&gt;Fun&lt;/li&gt;
+&lt;li&gt;Lower ticket cost this year&lt;/li&gt;
+&lt;li&gt;Bathroom facilities&lt;/li&gt;
+&lt;li&gt;Door Prizes&lt;/li&gt;
+&lt;li&gt;Camaradarie&lt;/li&gt;
+&lt;li&gt;Lower ticket Prices&lt;/li&gt;
+&lt;li&gt;A perfect change to see your friends!&lt;/li&gt;
+&lt;li&gt;Great deals! (yes, I know this is repeated, but it&amp;rsquo;s true!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The organizers are going to reach out to some vendors and invite them to attend our tailgate fest. We are not sure how this will turn out, but wouldn&amp;rsquo;t it be great if several larger vendors showed up to tailgate along with the rest of us? When they do, please remember to thank them, and to buy their wares to help solidify that thank you!&lt;/p&gt;
+&lt;p&gt;All new information from this point forward will be noted as such, and will likely be at the top of the page.&lt;/p&gt;
+&lt;hr&gt;
+&lt;!---
+
+
+
+&lt;div id=&#34;rigref-solar-widget&#34;&gt;&lt;a href=&#34;https://rigreference.com/solar&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://rigreference.com/solar/img/wide&#34; border=&#34;0&#34;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;a href=&#34;https://www.hamqsl.com/solar.html&#34; title=&#34;Click to add Solar-Terrestrial Data to your website!&#34;&gt;&lt;img src=&#34;https://www.hamqsl.com/solar101vhf.php&#34;&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+
+
+
+---&gt;
+      </description>
+    </item>
+    
+    <item>
       <title>: Home</title>
-      <link>https://rannathesleepbringer.github.io/pages/</link>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/pages/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       <author>admin@w3cwc.com (Antietam Radio Association)</author>
-      <guid>https://rannathesleepbringer.github.io/pages/</guid>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/pages/</guid>
       <description>
         
         
@@ -271,6 +436,915 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: ARA Officers</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/officers/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/officers/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;2022-2023&#34;&gt;2022-2023&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Position&lt;/th&gt;
+&lt;th&gt;Member&lt;/th&gt;
+&lt;th&gt;Call&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;President&lt;/td&gt;
+&lt;td&gt;Brian Umbrell&lt;/td&gt;
+&lt;td&gt;W3PDW&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Vice Pres&lt;/td&gt;
+&lt;td&gt;Herm Niedzielski&lt;/td&gt;
+&lt;td&gt;K2AVA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Treasurer&lt;/td&gt;
+&lt;td&gt;Tim Keener&lt;/td&gt;
+&lt;td&gt;N3VGS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Secretary&lt;/td&gt;
+&lt;td&gt;Bill Collins&lt;/td&gt;
+&lt;td&gt;K3WJC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Activities&lt;/td&gt;
+&lt;td&gt;Steve Struharik&lt;/td&gt;
+&lt;td&gt;WA8EIH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Director&lt;/td&gt;
+&lt;td&gt;Cliff Engle&lt;/td&gt;
+&lt;td&gt;W3KKO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Director&lt;/td&gt;
+&lt;td&gt;Pat Goodrich&lt;/td&gt;
+&lt;td&gt;KB3YSV&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Director&lt;/td&gt;
+&lt;td&gt;Robbie McFerren&lt;/td&gt;
+&lt;td&gt;KB3PXR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;2021-2022&#34;&gt;2021-2022&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Position&lt;/th&gt;
+&lt;th&gt;Member&lt;/th&gt;
+&lt;th&gt;Call&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;President&lt;/td&gt;
+&lt;td&gt;Brian Umbrell&lt;/td&gt;
+&lt;td&gt;W3PDW&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Vice Pres&lt;/td&gt;
+&lt;td&gt;Herm Niedzielski&lt;/td&gt;
+&lt;td&gt;K2AVA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Treasurer&lt;/td&gt;
+&lt;td&gt;Tim Keener&lt;/td&gt;
+&lt;td&gt;N3VGS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Secretary&lt;/td&gt;
+&lt;td&gt;Bill Collins&lt;/td&gt;
+&lt;td&gt;K3WJC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Activities&lt;/td&gt;
+&lt;td&gt;Steve Struharik&lt;/td&gt;
+&lt;td&gt;WA8EIH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Director&lt;/td&gt;
+&lt;td&gt;Karin Christenen&lt;/td&gt;
+&lt;td&gt;KB3GFV&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Director&lt;/td&gt;
+&lt;td&gt;Pat Goodrich&lt;/td&gt;
+&lt;td&gt;KB3YSV&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Director&lt;/td&gt;
+&lt;td&gt;Nelson Sollenberger&lt;/td&gt;
+&lt;td&gt;KA2C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;2020-2021&#34;&gt;2020-2021&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Position&lt;/th&gt;
+&lt;th&gt;Member&lt;/th&gt;
+&lt;th&gt;Call&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;President&lt;/td&gt;
+&lt;td&gt;Butch Eigenbrode&lt;/td&gt;
+&lt;td&gt;NI2W&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Vice Pres&lt;/td&gt;
+&lt;td&gt;Herm Niedzielski&lt;/td&gt;
+&lt;td&gt;K2AVA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Treasurer&lt;/td&gt;
+&lt;td&gt;Tim Keener&lt;/td&gt;
+&lt;td&gt;N3VGS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Secretary&lt;/td&gt;
+&lt;td&gt;Bill Collins&lt;/td&gt;
+&lt;td&gt;K3WJC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Activities&lt;/td&gt;
+&lt;td&gt;Steve Struharik&lt;/td&gt;
+&lt;td&gt;WA8EIH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Director&lt;/td&gt;
+&lt;td&gt;Karin Christenen&lt;/td&gt;
+&lt;td&gt;KB3GFV&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Director&lt;/td&gt;
+&lt;td&gt;Jamie Garrett&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Director&lt;/td&gt;
+&lt;td&gt;Nelson Sollenberger&lt;/td&gt;
+&lt;td&gt;KA2C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;2019-2020&#34;&gt;2019-2020&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Position&lt;/th&gt;
+&lt;th&gt;Member&lt;/th&gt;
+&lt;th&gt;Call&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;President&lt;/td&gt;
+&lt;td&gt;Bob Long&lt;/td&gt;
+&lt;td&gt;KD3JK&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Vice Pres&lt;/td&gt;
+&lt;td&gt;Herm Niedzielski&lt;/td&gt;
+&lt;td&gt;K2AVA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Treasurer&lt;/td&gt;
+&lt;td&gt;Tim Keener&lt;/td&gt;
+&lt;td&gt;N3VGS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Secretary&lt;/td&gt;
+&lt;td&gt;Bill Collins&lt;/td&gt;
+&lt;td&gt;K3WJC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Activities&lt;/td&gt;
+&lt;td&gt;Steve Struharik&lt;/td&gt;
+&lt;td&gt;WA8EIH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: Life Members</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/life-members/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/life-members/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;life-members-of-antietam-radio-association&#34;&gt;Life Members of Antietam Radio Association&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lifetime membership is an honor bestowed on club members by their fellow members who have dedicated a large part of their time to further amateur radio in their community and in service to the Antietam Radio Association.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bill Drager, K3UMV&lt;br&gt;
+Robert Long, KD3JK&lt;br&gt;
+Jean Morris, KB3COE&lt;br&gt;
+Charles Mulligan, N3MVR&lt;br&gt;
+Page Pyne, WA3EOP&lt;br&gt;
+John Smith, W3SPY&lt;br&gt;
+Jack Willock, W3NHR&lt;br&gt;
+&lt;em&gt;Andy Abraham, W3JZY (silent key)&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Robinson Binau, KC3DW (silent key)&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Cyrus Jones, W3EHA  (silent key)&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Douglas Lunde, WA4IBY (silent key)&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: Amateur Radio Testing</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/testing/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/testing/</guid>
+      <description>
+        
+        
+        &lt;h4 id=&#34;cost--15&#34;&gt;COST : $15&lt;/h4&gt;
+&lt;h4 id=&#34;when--july-5-2022-at-600pm-edt&#34;&gt;WHEN : July 5, 2022 at 6:00PM EDT&lt;/h4&gt;
+&lt;h4 id=&#34;where-st-johns-evangelical-lutheran-church-141-s-potomac-st-hagerstown-md-21740&#34;&gt;WHERE: St. John&amp;rsquo;s Evangelical Lutheran Church, 141 S. Potomac St, Hagerstown, MD 21740&lt;/h4&gt;
+&lt;h4 id=&#34;what-to-bring&#34;&gt;WHAT TO BRING:&lt;/h4&gt;
+&lt;p&gt;A legal photo ID (driver’s license, passport); if no photo ID is available, two forms of identification, which may include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;non-photo ID/driver&amp;rsquo;s license (some states still have them)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;birth certificate (must have the appropriate seal)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Your Federal Registration Number (FRN)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;library card&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;utility bill, bank statement or other business correspondence that specifically names the person; or a postmarked envelope addressed to the person at his or her current mailing address as it appears on the Form 605.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Students/minors may bring any of the above items and/or a school ID, minor&amp;rsquo;s work permit, report card, or a legal guardian may present a photo ID.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Social Security Number (SSN) are NO LONGER PERMISSIBLE. Please register with the FCC to get a Federal Registration Number (FRN); VEC’s are required by the FCC to submit your FRN number with your license application form. &lt;strong&gt;You may no longer use your SSN on the application.&lt;/strong&gt; For instructions on how to register your SSN with the FCC and receive a FRN, visit the FCC&amp;rsquo;s FAQ page and the FCC&amp;rsquo;s registration instructions page.  Please note that some exam teams will only accept a valid FRN on your application. &lt;strong&gt;Check with your local exam team before exam day.&lt;/strong&gt; &lt;a href=&#34;https://www.fcc.gov/wireless/support/universal-licensing-system-uls-resources/getting-fcc-registration-number-frn&#34;&gt;You may go to the FCC FAQ page from this link&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If applicable, bring either a photocopy of your current Amateur Radio license or a reference copy printed out from the FCC website, the license information printed from ARRL website or QRZ website, or the original(s) and photocopy(s) of any Certificates of Successful Completion of Examination (CSCE) you may hold from previous exam sessions. If your license has already been issued by FCC, the CSCE showing license credit is not needed. The photocopy(s) will not be returned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;also-bring&#34;&gt;Also bring:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Two number two pencils with erasers and a pen.&lt;/li&gt;
+&lt;li&gt;A calculator with the memory erased and formulas cleared is allowed.&lt;/li&gt;
+&lt;li&gt;You may not bring any written notes or calculations into the exam session. Slide rules and logarithmic tables are acceptable, as long as they&amp;rsquo;re free of notes and formulas. Cell phone must be silenced or turned off during the exam session and the phones&amp;rsquo; calculator function may not be used. In addition, iPhones, iPads, Androids, smartphones, Blackberry devices and all similar electronic devices with a calculator capability, may NOT be used.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Check, money order or cash to cover the exam session fee(s). The ARRL VEC’s current exam fees is $15 as of year end 2020. We do not accept the $35 FCC appication fee; the FCC will email you with instructions on how and when to pay.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;location&#34;&gt;Location:&lt;/h4&gt;
+&lt;p&gt;St. John&amp;rsquo;s Lutheran Church&lt;br&gt;
+Educational Building&lt;br&gt;
+2nd Floor&lt;br&gt;
+141 South Potomac Street &lt;br&gt;
+Hagerstown, MD 21740&lt;/p&gt;
+&lt;p&gt;The next testing session in scheduled for July 5, 2022 at 6P. You may pre-register by contating the test session organizer, Mr. Brian Umbrill by phone (717-264-6403) or email (&lt;a href=&#34;mailto:w3pdw@earthlink.net&#34;&gt;w3pdw@earthlink.net&lt;/a&gt;).&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: Band Conditions</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/conditions/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/conditions/</guid>
+      <description>
+        
+        
+        
+
+
+&lt;div id=&#34;rigref-solar-widget&#34;&gt;&lt;a href=&#34;https://rigreference.com/solar&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://rigreference.com/solar/img/wide&#34; border=&#34;0&#34;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;a href=&#34;https://www.hamqsl.com/solar.html&#34; title=&#34;Click to add Solar-Terrestrial Data to your website!&#34;&gt;&lt;img src=&#34;https://www.hamqsl.com/solar101vhf.php&#34;&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: Event Calendar</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/event-calendar/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/event-calendar/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;2022-ara-calendar&#34;&gt;2022 ARA Calendar&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;th&gt;Organizer/Contact/Notes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Jan 18&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;del&gt;ARA Activities Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Not being held in lieu of Winter Dinner&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Jan 22&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;6-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./post/2022-01-16-winterdinner/&#34;&gt;&lt;del&gt;ARA Winter Dinner&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;, 240-818-1248&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Jan 29&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;~~ARA Breakfast~&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Bob Long&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Feb 1&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Feb 15&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;5-6:30P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Pre-Meeting Social&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,  240-818-1248&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Feb 15&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Activities Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Feb 26&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;del&gt;ARA Breakfast&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Mar 1&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;6P-?&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/testing/&#34;&gt;&lt;del&gt;License Examination Session&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Brian, &lt;a href=&#34;mailto:w3pdw@earthlink.net&#34;&gt;w3pdw@earthlink.net&lt;/a&gt;, 717-264-6403&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Mar 1&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Mar 15&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;5-6:30P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Pre-Meeting Social&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,   240-818-1248&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Mar 15&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Activities Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Mar 26&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;del&gt;ARA Breakfast&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Apr 5&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Apr 19&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;5-6:30P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Pre-Meeting Social&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,  240-818-1248&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Apr 19&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Activities Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Apr 30&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7A-12P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./hamfest/&#34;&gt;&lt;del&gt;Great Hagerstown Hamfest&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,   240-818-1248 or Bill, &lt;a href=&#34;mailto:colli020@gmail.com&#34;&gt;colli020@gmail.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Apr 30&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;12:30P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/testing/&#34;&gt;&lt;del&gt;License Examination Session&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Brian, &lt;a href=&#34;mailto:w3pdw@earthlink.net&#34;&gt;w3pdw@earthlink.net&lt;/a&gt;, 717-264-6403&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;May 03&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;May 17&lt;/td&gt;
+&lt;td&gt;5-6:30P&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Pre-Meeting Social&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,  240-818-1248&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;May 17&lt;/td&gt;
+&lt;td&gt;7-9P&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Activities Meeting&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;May 28&lt;/td&gt;
+&lt;td&gt;9-11A&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;ARA Breakfast&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;strong&gt;Venue Changed to Hub City Diner &amp;ndash; click for more&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jun 07&lt;/td&gt;
+&lt;td&gt;7-9P&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Business Meeting&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jun 21&lt;/td&gt;
+&lt;td&gt;5-6:30P&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Pre-Meeting Social&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,  240-818-1248&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jun 21&lt;/td&gt;
+&lt;td&gt;7-9P&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Activities Meeting&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jun 24&lt;/td&gt;
+&lt;td&gt;9-?&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/field-day/&#34;&gt;Pre-Field Day Setup&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Jun 25&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;(/page/breakfast)&#34;&gt;&lt;del&gt;ARA Breakfast&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;strong&gt;Due to Field Day, no breakfast held&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jun 25-26&lt;/td&gt;
+&lt;td&gt;2P-2P ET&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/field-day/&#34;&gt;Field Day 2022&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jul 5&lt;/td&gt;
+&lt;td&gt;6P&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/testing/&#34;&gt;&lt;strong&gt;License Examination Session&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Brian, &lt;a href=&#34;mailto:w3pdw@earthlink.net&#34;&gt;w3pdw@earthlink.net&lt;/a&gt;, 717-264-6403&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jul 5&lt;/td&gt;
+&lt;td&gt;7-9P&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Business Meeting&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jul 19&lt;/td&gt;
+&lt;td&gt;5-6:30P&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Social @ Am. Legion&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,  240-818-1248&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jul 19&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;NO ACTIVITES MEETING&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;past-ara-events-2021&#34;&gt;Past ARA Events (2021)&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Dec 25&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;del&gt;ARA Breakfast&lt;/del&gt;&lt;/a&gt;  &lt;del&gt;Christmas Day &amp;ndash; Will not be held&lt;/del&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Dec 21&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Activities Meeting&lt;/del&gt;&lt;/a&gt; &lt;del&gt;This meeting will be held&lt;/del&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Dec 7&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;5-6:30P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Pre-Meeting Social&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Dec 7&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Nov 27&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;del&gt;ARA Breakfast&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Nov 20&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7A-7P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;del&gt;JFK 50 Mile UltraMarathon&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Nov 16&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Activities Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Nov 2&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;?-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Nov 2&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;5-6:30P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Pre-Meeting Social&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Nov 2&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;6P-?&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/testing/&#34;&gt;&lt;del&gt;License Examination Session&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Oct 30&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;del&gt;ARA Breakfast&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Oct 30&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;6-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;del&gt;Alsatia Mummer&amp;rsquo;s Parade-Communications&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Oct 19&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Activities Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;~~Oct 5&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Oct 5&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;5-6:30P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Pre-Meeting Social&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Sep 25&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;del&gt;ARA Breakfast&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;~~Sep 25&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;8-12&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/hamfest2021&#34;&gt;&lt;del&gt;ARA Hamfest/Tailgate Fest&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Sep 21&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Activities Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Sep 11&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7A-1P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://harccoalition.org/hike/&#34;&gt;&lt;del&gt;HARC Hike-Communications&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Sep 7&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;5-6:30P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Pre-Meeting Social&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Sep 7&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;6P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/testing/&#34;&gt;&lt;del&gt;License Examination Session&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Sep 7&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Sep 2-5&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./post/2021-08-08-hpm&#34;&gt;&lt;del&gt;&lt;strong&gt;HPM Special Event &amp;ndash; An ARA-sponsored event in honor of Hiram Percy Maxim, co-founder of ARRL&lt;/strong&gt;&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Aug 28&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;del&gt;ARA Breakfast&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Aug 17&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;NO ACTIVITIES MEETING JULY or AUGUST&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Aug 14-15&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9A-5P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://leitersburgruritan.org/peach-festival&#34;&gt;&lt;del&gt;Ruritan Peach Festival&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Aug 3&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;5-6:30P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Pre-Meeting Social&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Aug 3&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Aug 1&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;7A-1P&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://racinemultisports.com/frt/&#34;&gt;&lt;del&gt;Ft. Ritchie Triathlon-Communications (&lt;em&gt;conflicts with Beryville hamfest&lt;/em&gt;)&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;July 31&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;del&gt;ARA Breakfast &amp;ndash; &lt;strong&gt;it&amp;rsquo;s moved!&lt;/strong&gt;&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Jul 20&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;NO ACTIVITIES MEETING JULY or AUGUST&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;other-events&#34;&gt;Other Events&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;!---
+Aug 1|Gates open at 6A|[Berryville Hamfest](https://svarc.us/hamfest/)
+Aug 14-15|~9A-5P|[Ruritan Peach Festival](https://leitersburgruritan.org/peach-festival)|
+Aug 15|8A|[Ruritan Peach Festival 5K Race](https://leitersburgruritan.org/peach-festival-5k)|
+---&gt;
+&lt;p&gt;Please note: &lt;em&gt;This listing is not all-inclusive, and only inludes those events of which we have been made aware &amp;ndash; If you would like to have your event included, you may email &lt;a href=&#34;mailto:admin@w3cwc.com&#34;&gt;admin@w3cwc.com&lt;/a&gt; for inclusion in this list&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: Past Presentations</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/presentations/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/presentations/</guid>
+      <description>
+        
+        
+        &lt;p&gt;We have had quite a few very relevant, well done and interesting presentations over the years &amp;ndash; we hope to add all recent presentations, and where possible, those that happened in the not so recent past. Each presenter must give consent before it is published on W3CWC.ORG.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h4 id=&#34;eznec-for-hamspost2022-03-20-eznec-march-15-2022-by-nelson-sollenberger-ka2c&#34;&gt;&lt;a href=&#34;./post/2022-03-20-eznec/&#34;&gt;EZNEC for Hams&lt;/a&gt;, March 15, 2022 by Nelson Sollenberger, KA2C&lt;/h4&gt;
+&lt;h4 id=&#34;rf-safetyimagesrfsafetypdf-may-18-2021-by-gary-depalma-ac8ne&#34;&gt;&lt;a href=&#34;./images/RFSafety.pdf&#34;&gt;RF Safety&lt;/a&gt;, May 18, 2021, by Gary DePalma, AC8NE&lt;/h4&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: Meeting Information</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/meeting-info/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/meeting-info/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;about-the-club&#34;&gt;About the Club&lt;/h2&gt;
+&lt;p&gt;Welcome to the Antietam Radio Association, or ARA for short.  It is our hope that you&amp;rsquo;ll enjoy your visit to our website and will return often.  The Antietam Radio Association is located in Hagerstown Maryland, and services the Four State area.&lt;/p&gt;
+&lt;p&gt;The Antietam Radio Association is a general interest club, which supports all modes of operation, and provides strong support to RACES (Radio Amateur Civil Emergency Service).&lt;/p&gt;
+&lt;h2 id=&#34;meeting-information&#34;&gt;Meeting Information&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;The Antietam Radio Association holds its meetings on the first and third Tuesday of most months.&lt;/em&gt; &lt;strong&gt;The ARA does not hold an Activities Meeting (second meeting) in July, August, and depending on the calendar, December).&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The activities meetings, which take place on the third Tuesday of each month, are usually preceded by an informal pre-meeting social for food and drink at the American Legion on Northern Ave in Hagerstown. Each member picks up her/her own tab.&lt;/p&gt;
+&lt;p&gt;Through Covid-19, which was most of 2020 and the early part of 2021, we tested several methods of hosting meetings via Webex, over the air on the 146.94 repeater, and Zoom.  Beginning with the first meeting in May 2021, we&amp;rsquo;ve begun to resume in-person meetings, but are keeping a close eye on local, state and federal governments to ensure we adhere to any and all restrictions.&lt;/p&gt;
+&lt;p&gt;We are fortunate to have stable venues:&lt;/p&gt;
+&lt;h3 id=&#34;pre-meeting-socials-are-held-on-the-third-tuesday-from-500-pm-to-630-pm-at&#34;&gt;Pre-meeting socials are held on the &lt;em&gt;third&lt;/em&gt; Tuesday from 5:00 PM to 6:30 PM at:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;American Legion&lt;br&gt;
+405 Northern Avenue&lt;br&gt;
+Hagerstown, MD 21742&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;meetings-begin-at-700pm-at&#34;&gt;Meetings begin at 7:00PM at:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;St. John&amp;rsquo;s Lutheran Church&lt;br&gt;
+Education Building&lt;br&gt;
+Second Floor&lt;br&gt;
+141 South Potomac Street&lt;br&gt;
+Hagerstown, MD 21740&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: ARA Breakfast</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/breakfast/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/breakfast/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;update--breakfast-will-not-be-held-june-25-2022-because-of-field-day----setup-of-radio-equipment-and-final-tweaking-begins-at-9a&#34;&gt;&lt;em&gt;Update!&lt;/em&gt;  &lt;strong&gt;BREAKFAST WILL NOT BE HELD JUNE 25, 2022 BECAUSE OF FIELD DAY &amp;ndash; Setup of radio equipment and final tweaking begins at 9A&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The ARA monthly breakfast for July 2022 will be held at:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;THE HUB CITY DINER&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;190 Railroad Lane&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Hagerstown, MD&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The time is the same:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Last Saturday of the month (next breakfast July 30, 2022)&lt;/li&gt;
+&lt;li&gt;9:00 AM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://hubcitydinerhagerstown.com/&#34;&gt;&lt;strong&gt;Click here for their web page and menu&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We host the breakfast on the last Saturday of each month, and it&amp;rsquo;s a great time for eyeball QSOs with people you&amp;rsquo;ve spoken to over the air, or just to meet up with friends you haven&amp;rsquo;t seen for while.&lt;/p&gt;
+&lt;p&gt;Officially, the breakfast starts at 9:00 AM, but it is always a good idea to come a little early to make sure that you get a good seat.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: Nets &amp; Repeaters</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/nets-repeaters/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/nets-repeaters/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;nets&#34;&gt;Nets&lt;/h2&gt;
+&lt;p&gt;The Antietam Radio Association sponsors five nets that address a variety of interests. All licensed amateurs are welcome to participate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ARES NET&lt;br&gt;
+The monthly Washington County ARES FM Net is held on the last Thursday of each month at 7:00 PM. It is held on the 146.94 repeater, PL tone 100.0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ARES FUSION NET&lt;br&gt;
+ARES FUSION NET follows the monthly ARES net at 7:30 PM and is held on the 447.975 W3CWC repeater. The Fusion net uses Yaesu’s C4FM 4-level FSK Technology to transmit digital voice and gives net participants the chance to practice using this mode and exercise their Fusion equipment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ARA 4-STATES NET&lt;br&gt;
+Held each Wednesday at 8:00 PM on the 147.09 repeater (PL tone 100.0), it offers weekly updates of club news and activities and the chance to chat with other club members.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The SIX METER NET&lt;br&gt;
+This net is a more informal net that follows the Four States Net. It is held weekly at about 8:30 PM on 50.151 MHZ USB and is hosted by Herm, K2AVA, to give participants the chance to exercise their 6 meter equipment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;the-new-hams-net-is-taking-some-time-away-from-the-microphone----we-will-re-evaluate-after-the-summer&#34;&gt;&lt;em&gt;The NEW HAMS NET is taking some time away from the microphone &amp;ndash; we will re-evaluate after the summer&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;NEW HAMS NET&lt;br&gt;
+The ARA recently started a New Hams Net, held on the first and third Thursdays of each month at 8PM. The net alternates between the 146.94 repeater, PL 100 Hz (first Thursday) and the 147.090 repeater, PL 100 Hz (third Thursday). This net offers newly licensed amateurs a helpful and no pressure environment to practice operating their equipment and learn net operation etiquette. Amateurs who would like to practice or to help assist newcomers are welcome.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;repeaters&#34;&gt;Repeaters&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;CALL&lt;/th&gt;
+&lt;th&gt;Freq&lt;/th&gt;
+&lt;th&gt;+/-&lt;/th&gt;
+&lt;th&gt;PL Tone&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;W3CWC&lt;/td&gt;
+&lt;td&gt;146.940&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;100.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;W3CWC&lt;/td&gt;
+&lt;td&gt;147.090&lt;/td&gt;
+&lt;td&gt;+&lt;/td&gt;
+&lt;td&gt;100.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;K3UMV&lt;/td&gt;
+&lt;td&gt;147.375&lt;/td&gt;
+&lt;td&gt;+&lt;/td&gt;
+&lt;td&gt;none&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;W3CWC&lt;/td&gt;
+&lt;td&gt;447.975&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;100.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This list will continually grow until I have everything back to where we were. In the mean time, you may visit &lt;a href=&#34;https://www.w8ors.org/Net.html&#34;&gt;W8ORS.org website&amp;rsquo;s repeater page&lt;/a&gt; to peruse their more complete listing of neighboring repeaters.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: ARA Bylaws</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/bylaws/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/bylaws/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;./images/ARA_BYLAWS_2018_MOD_2.pdf&#34;&gt;For a PDF of the most recently published ARA Bylaws, click here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please note that we recently had a revision, which is not yet included within the PDF. It will be included in the next PDF.&lt;/p&gt;
+&lt;p&gt;Specifically, the revision concerns whether in-person meetings more, less or equally authoritative as those held over the air, Zoom, or other methods. The newly approved wording is below:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Article V — Meetings of Members&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Section 8. Meeting Access&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;C. All meetings, when called by the President, whether they are in person meetings, online meetings or over the air meetings, shall be considered legal meetings. Any business conducted shall be considered binding with proper voting procedures.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>: Become a Member</title>
+      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/membership/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <author>admin@w3cwc.com (Antietam Radio Association)</author>
+      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/membership/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Whether you are an &amp;ldquo;old-timer&amp;rdquo; within the wireless hobby, or are brand new to amateur radio, the Antietam Radio Association is a great place to meet new people and to learn more about the art, science and skill of Amateur Radio.&lt;/p&gt;
+&lt;p&gt;The Federal Communications Commission established the Amateur Radio Service in 1912, which requires a license to transmit on the many frequencies the Commission reserved for the use of the Amateur Radio Service. Being part of a club raises the enjoyment you will get from being an amateur radio operator. With that in mind, if you are within the regional Hagerstown area, join us!&lt;/p&gt;
+&lt;p&gt;If you are not located within a reasonable distance, we still encourage you to find a club close to you &amp;hellip; a good starting point is the &lt;a href=&#34;http://www.arrl.org/find-a-club&#34;&gt;ARRL&amp;rsquo;s club search&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If are relatively near Hagerstown, MD, then by all means, join us for our next meeting! We have re-established in-person meetings as May, 2021. &lt;a href=&#34;./page/meeting-info&#34;&gt;&lt;strong&gt;Click here for meeting information, including location and times/dates.&lt;/strong&gt;&lt;/a&gt;. Membership is not required to attend a meeting (or evens multiple meetings); they are open to all who are interested.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./images/Application_Form.pdf&#34;&gt;&lt;strong&gt;Click here for the Membership Application Form&lt;/strong&gt;&lt;/a&gt;. Please print the application out and mail to the ARA or bring with you to the next meeting.&lt;/p&gt;
 
       </description>
     </item>
