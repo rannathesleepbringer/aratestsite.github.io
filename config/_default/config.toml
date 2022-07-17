@@ -1,4 +1,4 @@
-baseurl = "https://rannathesleepbringer.github.io/aratestsite.github.io"
+baseurl = "https://w3cwc.org/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "docs"
@@ -81,18 +81,18 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Contact"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/contact"
+    url = "https://w3cwc.org//contact"
     weight = 2
 
 [[menu.main]]
     identifier = "activities"
-    name = "https://rannathesleepbringer.github.io/aratestsite.github.io/Activities"
+    name = "Activities"
     weight = 3
 
 [[menu.main]]
     parent = "activities"
     name = "Event Calendar"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/event-calendar"
+    url = "https://w3cwc.org/event-calendar"
     weight = 4
 
 #
@@ -106,7 +106,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "activities"
     name = "Monthly Breakfast"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/breakfast"
+    url = "https://w3cwc.org//breakfast"
     weight = 5
 
 [[menu.main]]
@@ -118,64 +118,64 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "activities"
     name = "ARRL Field Day"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/field-day"
+    url = "https://w3cwc.org//field-day"
     weight = 7
 
 [[menu.main]]
     identifier = "info"
-    name = "https://rannathesleepbringer.github.io/aratestsite.github.io/Club Info"
+    name = "Club Info"
     weight = 2
 
 [[menu.main]]
     parent = "info"
     name = "Get Your License!"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/testing"
+    url = "https://w3cwc.org//testing"
 
 [[menu.main]]
     parent = "info"
     name = "Join us!"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/membership"
+    url = "https://w3cwc.org//membership"
     weight = 1
 
     [[menu.main]]
     parent = "info"
     name = "Contact Us!"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/contact"
+    url = "https://w3cwc.org/contact"
     weight = 1
 
 [[menu.main]]
     parent = "info"
     name = "ARA Bylaws"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/bylaws"
+    url = "https://w3cwc.org//bylaws"
     weight = 2
 
 [[menu.main]]
     parent = "info"
     name = "ARA Meetings"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/meeting-info"
+    url = "https://w3cwc.org//meeting-info"
     weight = 5
 
 [[menu.main]]
     parent = "info"
     name = "Life Members"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/life-members"
+    url = "https://w3cwc.org//life-members"
     weight = 4
 
 [[menu.main]]
     parent = "info"
     name = "ARA Officers"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/officers"
+    url = "https://w3cwc.org//officers"
     weight = 6
 
 [[menu.main]]
     parent = "info"
     name = "Nets & Repeaters"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/nets-repeaters"
+    url = "https://w3cwc.org//nets-repeaters"
     weight = 7
 
 [[menu.main]]
     identifier = "resources"
-    name = "https://rannathesleepbringer.github.io/aratestsite.github.io/Resources"
+    name = "https://w3cwc.org//Resources"
     weight = 3
 
 [[menu.main]]
@@ -186,7 +186,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "resources"
     name = "Presentations"
-    url = "https://rannathesleepbringer.github.io/aratestsite.github.io/presentations"
+    url = "https://w3cwc.org//presentations"
 
 [[menu.topbar]]
   weight   = 5
