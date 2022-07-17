@@ -1,31 +1,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antietam Radio – </title>
-    <link>https://rannathesleepbringer.github.io/aratestsite.github.io/</link>
+    <link>https://rannathesleepbringer.github.io/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>admin@w3cwc.com (Antietam Radio Association)</managingEditor>
     <webMaster>admin@w3cwc.com (Antietam Radio Association)</webMaster>
     <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rannathesleepbringer.github.io/aratestsite.github.io/img/hugo.png</url>
+      <url>https://rannathesleepbringer.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
-      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/</link>
+      <link>https://rannathesleepbringer.github.io/</link>
     </image>
     
-		  <atom:link href="https://rannathesleepbringer.github.io/aratestsite.github.io/index.xml" rel='self' type="application/rss+xml" />
+		  <atom:link href="https://rannathesleepbringer.github.io/index.xml" rel='self' type="application/rss+xml" />
     
     
     <item>
       <title>: Hamfest 2022</title>
-      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/hamfest/</link>
+      <link>https://rannathesleepbringer.github.io/hamfest/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <author>admin@w3cwc.com (Antietam Radio Association)</author>
-      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/hamfest/</guid>
+      <guid>https://rannathesleepbringer.github.io/hamfest/</guid>
       <description>
         
         
-        &lt;h3 id=&#34;new-hamfest-flyer----updated-4722imagesgreathaghamfest2022flyer-gpdf&#34;&gt;NEW! &lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/images/GreatHagHamfest2022Flyer-g.pdf&#34;&gt;Hamfest Flyer &amp;ndash; updated 4/7/22&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 id=&#34;new-hamfest-flyer----updated-4722imagesgreathaghamfest2022flyer-gpdf&#34;&gt;NEW! &lt;a href=&#34;./images/GreatHagHamfest2022Flyer-g.pdf&#34;&gt;Hamfest Flyer &amp;ndash; updated 4/7/22&lt;/a&gt;&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;located-at&#34;&gt;&lt;em&gt;Located at:&lt;/em&gt;&lt;/h3&gt;
 &lt;h4 id=&#34;washington-county-agricultural-center&#34;&gt;Washington County Agricultural Center&lt;/h4&gt;
@@ -76,7 +76,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;We are excited about the upcoming hamfest, and we all hope that everyone will come out to attend the event, attend the presentations put on by our speakers, and hopefully find some &lt;em&gt;great&lt;/em&gt; deals.&lt;/p&gt;
-&lt;p&gt;You can &lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/images/GreatHagHamfest2022Flyer-g.pdf&#34;&gt;click here to download the newest hamfest flyer, which also includes a &lt;em&gt;full schedule&lt;/em&gt;&lt;/a&gt; to print&amp;ndash;if you are able we would appreciate it if you would print out a few extra copies to share amongst your friends and acquaintance.&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&#34;./images/GreatHagHamfest2022Flyer-g.pdf&#34;&gt;click here to download the newest hamfest flyer, which also includes a &lt;em&gt;full schedule&lt;/em&gt;&lt;/a&gt; to print&amp;ndash;if you are able we would appreciate it if you would print out a few extra copies to share amongst your friends and acquaintance.&lt;/p&gt;
 &lt;p&gt;All new information from this point forward will be noted as such, and will likely be at the top of the page.&lt;/p&gt;
 &lt;!---
 
@@ -129,17 +129,17 @@
     
     <item>
       <title>: Home</title>
-      <link>https://rannathesleepbringer.github.io/aratestsite.github.io/pages/</link>
+      <link>https://rannathesleepbringer.github.io/pages/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       <author>admin@w3cwc.com (Antietam Radio Association)</author>
-      <guid>https://rannathesleepbringer.github.io/aratestsite.github.io/pages/</guid>
+      <guid>https://rannathesleepbringer.github.io/pages/</guid>
       <description>
         
         
         &lt;!---
 [![2022 Great Hagerstown Hamfest](/images/2022-Hamfest-Banner.png)](/hamfest/)
 
-&lt;figure class=&#34;no-photoswipe&#34;&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/field-day/&#34;&gt;&lt;img src=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/images/ARRL_FD22_Logo.jpg/&#34;
+&lt;figure class=&#34;no-photoswipe&#34;&gt;&lt;a href=&#34;./page/field-day/&#34;&gt;&lt;img src=&#34;./images/ARRL_FD22_Logo.jpg/&#34;
          alt=&#34;Field Day 2022&#34;/&gt;&lt;/a&gt;&lt;figcaption&gt;
             &lt;p&gt;Field Day 2022&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -147,11 +147,11 @@
 
 ---&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;./css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
 	  
 
-&lt;figure class=&#34;no-photoswipe&#34;&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/membership/&#34;&gt;&lt;img src=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/images/join-now.jpg&#34;
+&lt;figure class=&#34;no-photoswipe&#34;&gt;&lt;a href=&#34;./page/membership/&#34;&gt;&lt;img src=&#34;./images/join-now.jpg&#34;
          alt=&#34;Join Antietam Radio!&#34;/&gt;&lt;/a&gt;&lt;figcaption&gt;
             &lt;p&gt;Join Antietam Radio!&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -165,7 +165,7 @@
 &lt;/figure&gt;
 
 
-&lt;figure class=&#34;no-photoswipe&#34;&gt;&lt;a href=&#34;http://eepurl.com/hmP2w5&#34;&gt;&lt;img src=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/images/email-list-circle.jpeg&#34;
+&lt;figure class=&#34;no-photoswipe&#34;&gt;&lt;a href=&#34;http://eepurl.com/hmP2w5&#34;&gt;&lt;img src=&#34;./images/email-list-circle.jpeg&#34;
          alt=&#34;Sign up for ARA e-Mail list&#34;/&gt;&lt;/a&gt;&lt;figcaption&gt;
             &lt;p&gt;Sign up for ARA e-Mail list&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -188,85 +188,85 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;del&gt;May 03&lt;/del&gt;&lt;/td&gt;
 &lt;td&gt;&lt;del&gt;7-9P&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;&lt;del&gt;ARA Business Meeting&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;May 17&lt;/td&gt;
 &lt;td&gt;5-6:30P&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/meeting-info/&#34;&gt;ARA Pre-Meeting Social&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Pre-Meeting Social&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,  240-818-1248&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;May 17&lt;/td&gt;
 &lt;td&gt;7-9P&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/meeting-info/&#34;&gt;ARA Activities Meeting&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Activities Meeting&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;May 28&lt;/td&gt;
 &lt;td&gt;9-11A&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/breakfast&#34;&gt;ARA Breakfast&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/breakfast&#34;&gt;&lt;strong&gt;Venue Changed to Hub City Diner &amp;ndash; click for more&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;ARA Breakfast&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;strong&gt;Venue Changed to Hub City Diner &amp;ndash; click for more&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Jun 07&lt;/td&gt;
 &lt;td&gt;7-9P&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/meeting-info/&#34;&gt;ARA Business Meeting&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Business Meeting&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Jun 21&lt;/td&gt;
 &lt;td&gt;5-6:30P&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/meeting-info/&#34;&gt;ARA Pre-Meeting Social&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Pre-Meeting Social&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,  240-818-1248&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Jun 21&lt;/td&gt;
 &lt;td&gt;7-9P&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/meeting-info/&#34;&gt;ARA Activities Meeting&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Activities Meeting&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Jun 24&lt;/td&gt;
 &lt;td&gt;9A-?P&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/field-day/&#34;&gt;Pre-Field Day Setup&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/field-day/&#34;&gt;Pre-Field Day Setup&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;del&gt;Jun 25&lt;/del&gt;&lt;/td&gt;
 &lt;td&gt;&lt;del&gt;9-11A&lt;/del&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;(/page/breakfast)&#34;&gt;&lt;del&gt;ARA Breakfast&lt;/del&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/breakfast&#34;&gt;&lt;strong&gt;Due to Field Day, no breakfast held&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/breakfast&#34;&gt;&lt;strong&gt;Due to Field Day, no breakfast held&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Jun 25-26&lt;/td&gt;
 &lt;td&gt;2P-2P ET&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/field-day/&#34;&gt;Field Day 2022&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/field-day/&#34;&gt;Field Day 2022&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Jul 5&lt;/td&gt;
 &lt;td&gt;6P&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/testing/&#34;&gt;&lt;strong&gt;License Examination Session&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/testing/&#34;&gt;&lt;strong&gt;License Examination Session&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Brian, &lt;a href=&#34;mailto:w3pdw@earthlink.net&#34;&gt;w3pdw@earthlink.net&lt;/a&gt;, 717-264-6403&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Jul 5&lt;/td&gt;
 &lt;td&gt;7-9P&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/meeting-info/&#34;&gt;ARA Business Meeting&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Business Meeting&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Jul 19&lt;/td&gt;
 &lt;td&gt;5-6:30P&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/meeting-info/&#34;&gt;ARA Social @ Am. Legion&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;ARA Social @ Am. Legion&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Steve, &lt;a href=&#34;mailto:struhariks@gmail.com&#34;&gt;struhariks@gmail.com&lt;/a&gt;,  240-818-1248&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Jul 19&lt;/td&gt;
 &lt;td&gt;&amp;ndash;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://rannathesleepbringer.github.io/aratestsite.github.io/page/meeting-info/&#34;&gt;NO ACTIVITES MEETING&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./page/meeting-info/&#34;&gt;NO ACTIVITES MEETING&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
