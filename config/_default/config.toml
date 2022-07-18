@@ -36,6 +36,8 @@ pygmentsCodefencesGuessSyntax = true
   hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
+#changes the color of the default theme set
+w3cssColorTheme = "/vendor/w3css/4/w3-theme-dark-grey.css"
 
 #section added by steven
 [params.favicon]
