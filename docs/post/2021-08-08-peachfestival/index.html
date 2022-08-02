@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang=''>
+  <!-- _default/baseof.html  -->
   
+  <!-- partials/head.html  -->
 <head>
   <!-- hi there - what do you expect to see? ...  -->
   
+  <!-- partials/head.meta.html -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="content-type"    content="text/html; charset=utf-8" />
   <meta name="viewport"              content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
@@ -11,8 +14,9 @@
   <meta name="googlebot"             content="index,follow,snippet,archive" />
   <meta name="author"                content='Antietam Radio Association' />
   <meta name="keywords"              content='HAM, Radio' />
-  <meta name="description"           content='Herman Niedzielski (K2AVA), ARA VP, recently received approval from the Lietersburg Ruritan to have a booth at the 2021 Annual Peach Festival this coming …' />
+  <meta name="description"           content='Herman Niedzielski (K2AVA), ARA VP, recently received approval from the Lietersburg Ruritan to have a booth at the 2021 …' />
   
+  <!-- partials/head.meta.og.html -->
   <meta property="og:site_name"      content="Antietam Radio" /> 
   <meta property="og:title"          content="2021 Ruritan Peach Festival" /> 
   
@@ -20,12 +24,43 @@
   <meta property="og:image"          content='https://w3cwc.org/images/favicons/apple-touch-icon.png' /> 
 
   
+  <!-- partials/head.meta.twitter.html -->
   <meta property="twitter:title"          content="2021 Ruritan Peach Festival" /> 
   
   <meta property="twitter:image"          content='https://w3cwc.org/images/favicons/apple-touch-icon.png' /> 
 
+    <!-- back in partials/head.html  -->
 
-   
+  
+  <!-- partials/head.cookieconsent.html -->
+
+  <link rel="stylesheet" href="https://w3cwc.org/vendor/insites/cookieconsent/cookieconsent.3.0.6.min.css">
+  <script src="https://w3cwc.org/vendor/insites/cookieconsent/cookieconsent.3.0.6.min.js"></script>
+
+  <script>
+    window.addEventListener("load", function(){
+      window.cookieconsent.initialise({
+        "palette": {
+           "popup": {
+             "background": "#fff",
+             "text":       "#444",
+           },
+           "button": {
+             "background": "#666",
+             "text":       "#fff"
+           }
+         },
+        "position": "bottom-left","theme" : "classic",
+        "content": {
+          "message": "This website uses cookies to ensure you get the best experience on our website.",
+          "dismiss": "Yes, I agree",
+          "link"   : "Learn more",
+          "href"   : "https://cookiesandyou.com"
+        }
+      })  
+    })  
+    ;
+  </script>  
 
 
   <title>Antietam Radio</title>
@@ -33,197 +68,44 @@
   <meta name="generator" content="Hugo 0.101.0" />
 
   
-<link rel="stylesheet" href='../../vendor/fontawesome/5.9.0/css/all.css' />
-<link rel="stylesheet" href='../../vendor/daneden.github.io/animate.css/animate.min.css?1658113636' />
-<link rel="stylesheet" href='../../vendor/OwlCarousel2/assets/owl.carousel.min.css?1658113636' />
-<link rel="stylesheet" href='../../vendor/OwlCarousel2/assets/owl.theme.default.min.css?1658113636' />
+<!-- partials/head.stylesheets.html -->
+<link rel="stylesheet" href='https://w3cwc.org/vendor/fontawesome/5.9.0/css/all.css' />
+<link rel="stylesheet" href='https://w3cwc.org/vendor/daneden.github.io/animate.css/animate.min.css?1659408165' />
+<link rel="stylesheet" href='https://w3cwc.org/vendor/OwlCarousel2/assets/owl.carousel.min.css?1659408165' />
+<link rel="stylesheet" href='https://w3cwc.org/vendor/OwlCarousel2/assets/owl.theme.default.min.css?1659408165' />
 
-<link rel="stylesheet" href='../../vendor/w3css/4/4.13/w3.css' />
-<link rel="stylesheet" id="theme-colors" href='../../vendor/w3css/4/w3-theme-dark-grey.css?1658113636' />
+<link rel="stylesheet" href='https://w3cwc.org/vendor/w3css/4/4.13/w3.css' />
+<link rel="stylesheet" id="theme-colors" href='https://w3cwc.org/vendor/w3css/4/w3-theme-black.css?1659408165' />
 
 
 
 
-<link href="https://w3cwc.org//css/syntax.css?1658113636" rel="stylesheet"> 
-<link rel="stylesheet" href='../../css/w3css-basic.css?1658113636' />
-<link rel="stylesheet" href='../../css/res-gallery.css%20%20?1658113636' />
+<link href="https://w3cwc.org//css/syntax.css?1659408165" rel="stylesheet"> 
+<link rel="stylesheet" href='https://w3cwc.org/css/w3css-basic.css?1659408165' />
+<link rel="stylesheet" href='https://w3cwc.org/css/res-gallery.css%20%20?1659408165' />
 
-<link rel="stylesheet" href='../../css/custom.css?1658113636' />
+<link rel="stylesheet" href='https://w3cwc.org/css/custom.css?1659408165' />
 
     
-  
-<style>
- 
-@font-face {
-  font-family: 'Ubuntu Mono';
-  font-style: italic;
-  font-weight: 400;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-italic.eot');  
-  src: local('Ubuntu Mono Italic'), local('UbuntuMono-Italic'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-italic.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-italic.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-italic.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-italic.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-italic.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu Mono';
-  font-style: normal;
-  font-weight: 400;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-regular.eot');  
-  src: local('Ubuntu Mono'), local('UbuntuMono-Regular'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-regular.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-regular.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-regular.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-regular.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-regular.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu Mono';
-  font-style: normal;
-  font-weight: 700;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700.eot');  
-  src: local('Ubuntu Mono Bold'), local('UbuntuMono-Bold'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu Mono';
-  font-style: italic;
-  font-weight: 700;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700italic.eot');  
-  src: local('Ubuntu Mono Bold Italic'), local('UbuntuMono-BoldItalic'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700italic.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700italic.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700italic.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700italic.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-mono-v7-latin-700italic.svg') format('svg');  
-}
-
-
- 
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: italic;
-  font-weight: 400;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-italic.eot');  
-  src: local('Ubuntu Italic'), local('Ubuntu-Italic'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-italic.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-italic.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-italic.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-italic.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-italic.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 400;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-regular.eot');  
-  src: local('Ubuntu Regular'), local('Ubuntu-Regular'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-regular.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-regular.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-regular.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-regular.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-regular.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 300;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300.eot');  
-  src: local('Ubuntu Light'), local('Ubuntu-Light'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: italic;
-  font-weight: 300;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300italic.eot');  
-  src: local('Ubuntu Light Italic'), local('Ubuntu-LightItalic'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300italic.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300italic.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300italic.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300italic.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-300italic.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 500;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500.eot');  
-  src: local('Ubuntu Medium'), local('Ubuntu-Medium'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: italic;
-  font-weight: 500;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500italic.eot');  
-  src: local('Ubuntu Medium Italic'), local('Ubuntu-MediumItalic'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500italic.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500italic.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500italic.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500italic.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-500italic.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 700;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700.eot');  
-  src: local('Ubuntu Bold'), local('Ubuntu-Bold'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700.svg') format('svg');  
-}
- 
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: italic;
-  font-weight: 700;
-  src: url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700italic.eot');  
-  src: local('Ubuntu Bold Italic'), local('Ubuntu-BoldItalic'),
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700italic.eot') format('embedded-opentype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700italic.woff2') format('woff2'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700italic.woff') format('woff'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700italic.ttf') format('truetype'),  
-       url('https://w3cwc.org/vendor/google/fonts/ubuntu-v11-latin-700italic.svg') format('svg');  
-}
-
-</style>
-
-
-  <style>
-    html, body, h1, h2, h3, h4, h5, h6
-    {
-        font-family: 'Ubuntu Mono'     , monospace;
-        font-family: 'Ubuntu'          , sans-serif;
-    }
-  </style>
+  <!-- partials/head.fonts.googleapis.html -->
+  <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Ubuntu|Creepster|Signika|Ubuntu+Mono' />
+  <style> html {font-family: 'Ubuntu', sans-serif; } </style>
+  <style> body {font-family: 'Ubuntu', sans-serif; } </style>
+  <style> time {font-family: 'Creepster', cursive; } </style>
+  <style> h1 {font-family: 'Signika', sans-serif; } </style>
+  <style> h2 {font-family: 'Signika', sans-serif; } </style>
+  <style> h3 {font-family: 'Signika', sans-serif; } </style>
+  <style> h4 {font-family: 'Signika', sans-serif; } </style>
+  <style> h5 {font-family: 'Signika', sans-serif; } </style>
+  <style> h6 {font-family: 'Signika', sans-serif; } </style>
+  <style> pre {font-family: 'Ubuntu Mono', monospace; } </style>
+  <style> code {font-family: 'Ubuntu Mono', monospace; } </style>
+  <style> kbd {font-family: 'Ubuntu Mono', monospace; } </style>
+  <style> samp {font-family: 'Ubuntu Mono', monospace; } </style>
+  <style> data {font-family: 'Ubuntu Mono', monospace; } </style>   
 
   
+  <!-- partials/head.ie.html -->
   
   
   <!--[if lt IE 9]>
@@ -231,33 +113,46 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
   
- 
 
-<script src='../../js/custom.top.js?1658113636'></script>
+  <!-- partials/head.favicon.html -->  
 
+<!-- partials/scripts.top.html -->
+<script src='https://w3cwc.org/js/custom.top.js?1659408165'></script>
+
+<!-- partials/head.rss.html -->
 <link href='https://w3cwc.org/index.xml' rel="alternate" type="application/rss+xml" title='Antietam Radio (rss+xml alternate)' />
 
+    <!-- back in partials/head.html  -->
 </head>
 
+  <!-- back in _default/baseof.html  -->
 
   <body onload='onload()' >
     <div id="all" class="w3-theme">
       <header>
         
+  <!-- partials/header.marquee.html -->
 
+  <!-- partials/header.nav.html -->
 
 
 <div class='w3-bar w3-hide-small w3-hide-medium w3-theme-dark '>
+    <!-- w3-hide-small w3-hide-medium ************************************************** -->
+    <!-- header-nav-entry -->
+    <!-- range .Site.Menus.main -->
+        <!-- not .HasChildren -->
 
-<a href='../../index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class='fas fa-home'></i>&nbsp;Home</a>
-<a href='../../index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class='fas fa-home'></i>&nbsp;Home</a>
-<a href='../../index.html' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class='fas fa-home'></i>&nbsp;Home</a>
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Club Info</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Club Info</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Club Info</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org/contact' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Contact Us!</a>
     <a href='https://w3cwc.org//membership' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Join us!</a>
     <a href='https://w3cwc.org//bylaws' class="w3-bar-item w3-button"><i class=''></i>&nbsp;ARA Bylaws</a>
@@ -268,46 +163,204 @@
     <a href='https://w3cwc.org//testing' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Get Your License!</a>
   </div> 
 </div>   
+        <!-- not .HasChildren -->
 
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class=''></i>&nbsp;Contact</a>
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class=''></i>&nbsp;Contact</a>
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class=''></i>&nbsp;Contact</a>
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Activities</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Activities</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Activities</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org/event-calendar' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Event Calendar</a>
     <a href='https://w3cwc.org//breakfast' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Monthly Breakfast</a>
     <a href='post/2021-08-08-hpm/' class="w3-bar-item w3-button"><i class=''></i>&nbsp;HPM Special Event</a>
     <a href='https://w3cwc.org//field-day' class="w3-bar-item w3-button"><i class=''></i>&nbsp;ARRL Field Day</a>
   </div> 
 </div>   
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Resources</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Resources</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Resources</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org//presentations' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Presentations</a>
     <a href='post/2021-04-05-study-guides' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Study Options</a>
   </div> 
-</div>     
+</div>   
+        <!-- range .Site.Menus.topbar.ByWeight -->
+    <a href='https://w3cwc.org/search' target="_blank" class="w3-bar-item w3-button w3-right" ><i class='fas fa-search'></i></a> 
+        
+  <!-- partials/header.nav.google.translate.html -->
+
+
+<div class="w3-bar-item w3-right" id="google_translate_element"></div>
+<script>
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement(
+      {
+          pageLanguage: ''
+        
+        , layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+        , includedLanguages: 'de,en,fr'
+        
+        , multilanguagePage: true
+      }
+      , 'google_translate_element'
+    );
+  }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+ 
+    
+  <!-- partials/header.nav.large_theme_color_selector.html -->
+
+<select id="large_theme_color_selector"
+        title="This may help you to to define w3cssColorTheme in your config.toml. All color themes are taken from www.w3schools.com/w3css."
+        class="w3-bar-item w3-right w3-padding-small w3-theme-d2 w3-small"
+        style="margin-top: 6px;"
+        translate="no"
+        onchange="setStyleSheet('large_theme_color_selector')">
+  <option value="" disabled="" selected="">preview w3.css color themes</option>
+  <option value='w3-theme-amber.css'                                                > Amber       #ffc107 </option>
+  <option value='w3-theme-black.css'                                                > Black       #000000 </option>
+  <option value='w3-theme-blue-grey.css'                                            > Blue Grey   #607d8b </option>
+  <option value='w3-theme-blue.css'                                                 > Blue        #2196f3 </option>
+  <option value='w3-theme-brown.css'                                                > Brown       #795548 </option>
+  <option value='w3-theme-cyan.css'                                                 > Cyan        #00bcd4 </option>
+  <option value='w3-theme-dark-grey.css'                                            > Dark Grey   #616161 </option>
+  <option value='w3-theme-deep-orange.css'                                          > Deep Orange #ff5722 </option>
+  <option value='w3-theme-deep-purple.css'                                          > Deep Purple #673ab7 </option>
+  <option value='w3-theme-green.css'                                                > Green       #4caf50 </option>
+  <option value='w3-theme-grey.css'                                                 > Grey        #9e9e9e </option>
+  <option value='w3-theme-indigo.css'                                               > Indigo      #3f51b5 </option>
+  <option value='w3-theme-khaki.css'                                                > Khaki       #f0e68c </option>
+  <option value='w3-theme-light-blue.css'                                           > Light Blue  #87ceeb </option>
+  <option value='w3-theme-light-green.css'                                          > Light Green #8bc34a </option>
+  <option value='w3-theme-lime.css'                                                 > Lime        #cddc39 </option>
+  <option value='w3-theme-orange.css'                                               > Orange      #ff9800 </option>
+  <option value='w3-theme-pink.css'                                                 > Pink        #e91e63 </option>
+  <option value='w3-theme-purple.css'                                               > Purple      #9c27b0 </option>
+  <option value='w3-theme-red.css'                                                  > Red         #f44336 </option>
+  <option value='w3-theme-teal.css'                                                 > Teal        #009688 </option>
+  <option value='w3-theme-yellow.css'                                               > Yellow      #ffeb3b </option>
+
+  <option value="" disabled="" >preview color of the year</option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2006-sand-dollar.css'     > 2006 sand-dollar     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2007-chili-pepper.css'    > 2007 chili-pepper    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2008-blue-izis.css'       > 2008 blue-izis       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2009-mimosa.css'          > 2009 mimosa          </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2010-turquise.css'        > 2010 turquise        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2011-honeysucle.css'      > 2011 honeysucle      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2012-tangerine-tango.css' > 2012 tangerine-tango </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2013-emerald.css'         > 2013 emerald         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2014-radiand-orchid.css'  > 2014 radiand-orchid  </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2015-marsala.css'         > 2015 marsala         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-airy-blue.css'       > 2016 airy-blue       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-aurora-red.css'      > 2016 aurora-red      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-bodacious.css'       > 2016 bodacious       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-buttercup.css'       > 2016 buttercup       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-duster-cedar.css'    > 2016 duster-cedar    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-fiesta.css'          > 2016 fiesta          </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-green-flash.css'     > 2016 green-flash     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-iced-coffe.css'      > 2016 iced-coffe      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-lilac-grey.css'      > 2016 lilac-grey      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-limpet-shell.css'    > 2016 limpet-shell    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-lush-medow.css'      > 2016 lush-medow      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-peach-echo.css'      > 2016 peach-echo      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-potters-clay.css'    > 2016 potters-clay    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-riverside.css'       > 2016 riverside       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-rose-quarts.css'     > 2016 rose-quarts     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-serenity.css'        > 2016 serenity        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-sharkskin.css'       > 2016 sharkskin       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-snorkel-blue.css'    > 2016 snorkel-blue    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-spicy-mustard.css'   > 2016 spicy-mustard   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-warm-taupe.css'      > 2016 warm-taupe      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-autumn-maple.css'    > 2017 autumn-maple    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-ballet-slipper.css'  > 2017 ballet-slipper  </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-butterum.css'        > 2017 butterum        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-flame.css'           > 2017 flame           </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-golden-lime.css'     > 2017 golden-lime     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-greenery.css'        > 2017 greenery        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-grenadine.css'       > 2017 grenadine       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-hazelnut.css'        > 2017 hazelnut        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-island-paradise.css' > 2017 island-paradise </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-kale.css'            > 2017 kale            </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-lapis-blue.css'      > 2017 lapis-blue      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-marina.css'          > 2017 marina          </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-navy-peony.css'      > 2017 navy-peony      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-neutral-gray.css'    > 2017 neutral-gray    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-niagara.css'         > 2017 niagara         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-pale-dogwood.css'    > 2017 pale-dogwood    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-pink-yarrow.css'     > 2017 pink-yarrow     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-primrose-yellow.css' > 2017 primrose-yellow </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-shaded-spruce.css'   > 2017 shaded-spruce   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-tawny-port.css'      > 2017 tawny-port      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-almond-buff.css'     > 2018 almond-buff     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-almost-mauve.css'    > 2018 almost-mauve    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-arcadia.css'         > 2018 arcadia         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-blooming-dahlia.css' > 2018 blooming-dahlia </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-ceylon-yellow.css'   > 2018 ceylon-yellow   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-cherry-tomato.css'   > 2018 cherry-tomato   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-chili-oil.css'       > 2018 chili-oil       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-coconut-milk.css'    > 2018 coconut-milk    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-crocus-petal.css'    > 2018 crocus-petal    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-emperador.css'       > 2018 emperador       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-harbor-mist.css'     > 2018 harbor-mist     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-lime-punch.css'      > 2018 lime-punch      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-limelight.css'       > 2018 limelight       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-little-boy-blue.css' > 2018 little-boy-blue </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-martini-olive.css'   > 2018 martini-olive   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-meadowlark.css'      > 2018 meadowlark      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-meerkat.css'         > 2018 meerkat         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-nebulas-blue.css'    > 2018 nebulas-blue    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-pink-lavender.css'   > 2018 pink-lavender   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-quetzal-green.css'   > 2018 quetzal-green   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-quiet-gray.css'      > 2018 quiet-gray      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-red-pear.css'        > 2018 red-pear        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-russet-orange.css'   > 2018 russet-orange   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-sailor-blue.css'     > 2018 sailor-blue     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-sargasso-sea.css'    > 2018 sargasso-sea    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-spring-crocus.css'   > 2018 spring-crocus   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-tofu.css'            > 2018 tofu            </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-ultra-violet.css'    > 2018 ultra-violet    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-valiant-poppy.css'   > 2018 valiant-poppy   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-warm-sand.css'       > 2018 warm-sand       </option>
+
+</select>
+
+<noscript>
+  <style>
+    #large_theme_color_selector {display:none;}
+  </style>
+</noscript>
+
 
 
 </div> 
 <div class='w3-bar w3-hide-small w3-hide-large w3-theme-dark '>
+    <!-- w3-hide-small w3-hide-large ************************************************** -->
+    <!-- header-nav-entry -->
+    <!-- range .Site.Menus.main -->
+        <!-- not .HasChildren -->
 
-<a href='../../index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class='fas fa-home'></i>&nbsp;Home</a>
-<a href='../../index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class='fas fa-home'></i>&nbsp;Home</a>
-<a href='../../index.html' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class='fas fa-home'></i>&nbsp;Home</a>
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Club Info</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Club Info</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Club Info</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org/contact' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Contact Us!</a>
     <a href='https://w3cwc.org//membership' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Join us!</a>
     <a href='https://w3cwc.org//bylaws' class="w3-bar-item w3-button"><i class=''></i>&nbsp;ARA Bylaws</a>
@@ -318,47 +371,190 @@
     <a href='https://w3cwc.org//testing' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Get Your License!</a>
   </div> 
 </div>   
+        <!-- not .HasChildren -->
 
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class=''></i>&nbsp;Contact</a>
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class=''></i>&nbsp;Contact</a>
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class=''></i>&nbsp;Contact</a>
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Activities</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Activities</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Activities</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org/event-calendar' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Event Calendar</a>
     <a href='https://w3cwc.org//breakfast' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Monthly Breakfast</a>
     <a href='post/2021-08-08-hpm/' class="w3-bar-item w3-button"><i class=''></i>&nbsp;HPM Special Event</a>
     <a href='https://w3cwc.org//field-day' class="w3-bar-item w3-button"><i class=''></i>&nbsp;ARRL Field Day</a>
   </div> 
 </div>   
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Resources</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Resources</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Resources</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org//presentations' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Presentations</a>
     <a href='post/2021-04-05-study-guides' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Study Options</a>
   </div> 
-</div>    
+</div>   
+          <!-- range first $.Site.Params.menutopbar.numOfItemsIfMediumDisplay .Site.Menus.topbar.ByWeight -->
+      <a href='https://w3cwc.org/search' target="_blank" class="w3-bar-item w3-button w3-right header-nav-menu-topbar-medium" ><i class='fas fa-search'></i></a>   
+    
+  <!-- partials/header.nav.medium.theme_color_selector.html -->
+
+<select id="medium_theme_color_selector"
+        title="This may help you to to define w3cssColorTheme in your config.toml. All color themes are taken from www.w3schools.com/w3css."
+        class="w3-bar-item w3-right w3-padding-small w3-theme-d2 w3-small "
+        style="margin-top: 4px;"
+        translate="no"
+        onchange="setStyleSheet('medium_theme_color_selector')">
+  <option value="" disabled="" selected="">preview themes</option>
+  <option value='w3-theme-amber.css'                                                > amber</option>
+  <option value='w3-theme-black.css'                                                > black</option>
+  <option value='w3-theme-blue-grey.css'                                            > blue grey</option>
+  <option value='w3-theme-blue.css'                                                 > blue</option>
+  <option value='w3-theme-brown.css'                                                > brown</option>
+  <option value='w3-theme-cyan.css'                                                 > cyan</option>
+  <option value='w3-theme-dark-grey.css'                                            > dark grey</option>
+  <option value='w3-theme-deep-orange.css'                                          > deep orange</option>
+  <option value='w3-theme-deep-purple.css'                                          > deep purple</option>
+  <option value='w3-theme-green.css'                                                > green</option>
+  <option value='w3-theme-grey.css'                                                 > grey</option>
+  <option value='w3-theme-indigo.css'                                               > indigo</option>
+  <option value='w3-theme-khaki.css'                                                > khaki</option>
+  <option value='w3-theme-light-blue.css'                                           > light blue</option>
+  <option value='w3-theme-light-green.css'                                          > light green</option>
+  <option value='w3-theme-lime.css'                                                 > lime</option>
+  <option value='w3-theme-orange.css'                                               > orange</option>
+  <option value='w3-theme-pink.css'                                                 > pink</option>
+  <option value='w3-theme-purple.css'                                               > purple</option>
+  <option value='w3-theme-red.css'                                                  > red</option>
+  <option value='w3-theme-teal.css'                                                 > teal</option>
+  <option value='w3-theme-yellow.css'                                               > yellow</option>
+
+  <option value="" disabled="" >preview color of the year</option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2006-sand-dollar.css'     > 2006 sand-dollar     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2007-chili-pepper.css'    > 2007 chili-pepper    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2008-blue-izis.css'       > 2008 blue-izis       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2009-mimosa.css'          > 2009 mimosa          </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2010-turquise.css'        > 2010 turquise        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2011-honeysucle.css'      > 2011 honeysucle      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2012-tangerine-tango.css' > 2012 tangerine-tango </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2013-emerald.css'         > 2013 emerald         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2014-radiand-orchid.css'  > 2014 radiand-orchid  </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2015-marsala.css'         > 2015 marsala         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-airy-blue.css'       > 2016 airy-blue       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-aurora-red.css'      > 2016 aurora-red      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-bodacious.css'       > 2016 bodacious       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-buttercup.css'       > 2016 buttercup       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-duster-cedar.css'    > 2016 duster-cedar    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-fiesta.css'          > 2016 fiesta          </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-green-flash.css'     > 2016 green-flash     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-iced-coffe.css'      > 2016 iced-coffe      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-lilac-grey.css'      > 2016 lilac-grey      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-limpet-shell.css'    > 2016 limpet-shell    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-lush-medow.css'      > 2016 lush-medow      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-peach-echo.css'      > 2016 peach-echo      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-potters-clay.css'    > 2016 potters-clay    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-riverside.css'       > 2016 riverside       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-rose-quarts.css'     > 2016 rose-quarts     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-serenity.css'        > 2016 serenity        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-sharkskin.css'       > 2016 sharkskin       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-snorkel-blue.css'    > 2016 snorkel-blue    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-spicy-mustard.css'   > 2016 spicy-mustard   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2016-warm-taupe.css'      > 2016 warm-taupe      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-autumn-maple.css'    > 2017 autumn-maple    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-ballet-slipper.css'  > 2017 ballet-slipper  </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-butterum.css'        > 2017 butterum        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-flame.css'           > 2017 flame           </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-golden-lime.css'     > 2017 golden-lime     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-greenery.css'        > 2017 greenery        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-grenadine.css'       > 2017 grenadine       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-hazelnut.css'        > 2017 hazelnut        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-island-paradise.css' > 2017 island-paradise </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-kale.css'            > 2017 kale            </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-lapis-blue.css'      > 2017 lapis-blue      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-marina.css'          > 2017 marina          </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-navy-peony.css'      > 2017 navy-peony      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-neutral-gray.css'    > 2017 neutral-gray    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-niagara.css'         > 2017 niagara         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-pale-dogwood.css'    > 2017 pale-dogwood    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-pink-yarrow.css'     > 2017 pink-yarrow     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-primrose-yellow.css' > 2017 primrose-yellow </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-shaded-spruce.css'   > 2017 shaded-spruce   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2017-tawny-port.css'      > 2017 tawny-port      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-almond-buff.css'     > 2018 almond-buff     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-almost-mauve.css'    > 2018 almost-mauve    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-arcadia.css'         > 2018 arcadia         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-blooming-dahlia.css' > 2018 blooming-dahlia </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-ceylon-yellow.css'   > 2018 ceylon-yellow   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-cherry-tomato.css'   > 2018 cherry-tomato   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-chili-oil.css'       > 2018 chili-oil       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-coconut-milk.css'    > 2018 coconut-milk    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-crocus-petal.css'    > 2018 crocus-petal    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-emperador.css'       > 2018 emperador       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-harbor-mist.css'     > 2018 harbor-mist     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-lime-punch.css'      > 2018 lime-punch      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-limelight.css'       > 2018 limelight       </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-little-boy-blue.css' > 2018 little-boy-blue </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-martini-olive.css'   > 2018 martini-olive   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-meadowlark.css'      > 2018 meadowlark      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-meerkat.css'         > 2018 meerkat         </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-nebulas-blue.css'    > 2018 nebulas-blue    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-pink-lavender.css'   > 2018 pink-lavender   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-quetzal-green.css'   > 2018 quetzal-green   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-quiet-gray.css'      > 2018 quiet-gray      </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-red-pear.css'        > 2018 red-pear        </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-russet-orange.css'   > 2018 russet-orange   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-sailor-blue.css'     > 2018 sailor-blue     </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-sargasso-sea.css'    > 2018 sargasso-sea    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-spring-crocus.css'   > 2018 spring-crocus   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-tofu.css'            > 2018 tofu            </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-ultra-violet.css'    > 2018 ultra-violet    </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-valiant-poppy.css'   > 2018 valiant-poppy   </option>
+  <option value='color_of_the_year/w3-theme-color-of-year-2018-warm-sand.css'       > 2018 warm-sand       </option>
+
+</select>
+
+<noscript>
+  <style>
+    #medium_theme_color_selector {display:none;}
+  </style>
+</noscript>
+
 
 
 </div> 
 
-<div id='nav-small-no-js' class='w3-bar w3-hide-medium w3-hide-large w3-theme-dark '>
+<div id='nav-small-js' class='w3-bar w3-hide-medium w3-hide-large w3-theme-dark '>
+    <!-- w3-hide-large w3-hide-medium ************************************************** -->
+          <!-- range first $.Site.Params.menutopbar.numOfItemsIfSmallDisplay .Site.Menus.topbar.ByWeight -->
+      <a href='https://w3cwc.org/search' target="_blank" class="w3-bar-item w3-button w3-right header-nav-menu-topbar-small" ><i class='fas fa-search'></i></a> 
 
-<a href='../../index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class='fas fa-home'></i>&nbsp;Home</a>
-<a href='../../index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class='fas fa-home'></i>&nbsp;Home</a>
-<a href='../../index.html' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class='fas fa-home'></i>&nbsp;Home</a>
+  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-left w3-hide-large w3-hide-medium" onclick="showMenu()"><i class="fas fa-caret-square-down"></i></a>
+  
+
+  <div id="nav-small-js-bar-block" class="w3-bar-block w3-small w3-hide w3-hide-large w3-hide-medium">
+    <!-- header-nav-entry -->
+    <!-- range .Site.Menus.main -->
+        <!-- not .HasChildren -->
+
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class='fas fa-home'></i>&nbsp;Home</a>
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Club Info</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Club Info</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Club Info</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org/contact' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Contact Us!</a>
     <a href='https://w3cwc.org//membership' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Join us!</a>
     <a href='https://w3cwc.org//bylaws' class="w3-bar-item w3-button"><i class=''></i>&nbsp;ARA Bylaws</a>
@@ -369,32 +565,39 @@
     <a href='https://w3cwc.org//testing' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Get Your License!</a>
   </div> 
 </div>   
+        <!-- not .HasChildren -->
 
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class=''></i>&nbsp;Contact</a>
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class=''></i>&nbsp;Contact</a>
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class=''></i>&nbsp;Contact</a>
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Activities</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Activities</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Activities</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org/event-calendar' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Event Calendar</a>
     <a href='https://w3cwc.org//breakfast' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Monthly Breakfast</a>
     <a href='post/2021-08-08-hpm/' class="w3-bar-item w3-button"><i class=''></i>&nbsp;HPM Special Event</a>
     <a href='https://w3cwc.org//field-day' class="w3-bar-item w3-button"><i class=''></i>&nbsp;ARRL Field Day</a>
   </div> 
 </div>   
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Resources</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Resources</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Resources</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org//presentations' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Presentations</a>
     <a href='post/2021-04-05-study-guides' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Study Options</a>
   </div> 
 </div>   
+  </div>
+
 
 </div> 
 
@@ -414,16 +617,22 @@
     #nav-small-js {display:none;}
   </style>
 <div id='nav-small-no-js' class='w3-bar w3-small w3-hide-medium w3-hide-large w3-theme-dark '>
+    <!-- w3-hide-large w3-hide-medium ************************************************** -->
+    <!-- header-nav-entry -->
+    <!-- range .Site.Menus.main -->
+        <!-- not .HasChildren -->
 
-<a href='../../index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class='fas fa-home'></i>&nbsp;Home</a>
-<a href='../../index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class='fas fa-home'></i>&nbsp;Home</a>
-<a href='../../index.html' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class='fas fa-home'></i>&nbsp;Home</a>
+<a href='https://w3cwc.org/index.html' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class='fas fa-home'></i>&nbsp;Home</a>
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Club Info</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Club Info</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Club Info</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org/contact' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Contact Us!</a>
     <a href='https://w3cwc.org//membership' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Join us!</a>
     <a href='https://w3cwc.org//bylaws' class="w3-bar-item w3-button"><i class=''></i>&nbsp;ARA Bylaws</a>
@@ -434,87 +643,113 @@
     <a href='https://w3cwc.org//testing' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Get Your License!</a>
   </div> 
 </div>   
+        <!-- not .HasChildren -->
 
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button          w3-hide-small  w3-hide-medium header-nav-menu-large "><i class=''></i>&nbsp;Contact</a>
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button          w3-hide-small  w3-hide-large  header-nav-menu-medium"><i class=''></i>&nbsp;Contact</a>
 <a href='https://w3cwc.org//contact' class="w3-bar-item w3-button w3-small w3-hide-medium w3-hide-large  header-nav-menu-small" ><i class=''></i>&nbsp;Contact</a>
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Activities</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Activities</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Activities</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org/event-calendar' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Event Calendar</a>
     <a href='https://w3cwc.org//breakfast' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Monthly Breakfast</a>
     <a href='post/2021-08-08-hpm/' class="w3-bar-item w3-button"><i class=''></i>&nbsp;HPM Special Event</a>
     <a href='https://w3cwc.org//field-day' class="w3-bar-item w3-button"><i class=''></i>&nbsp;ARRL Field Day</a>
   </div> 
 </div>   
+        <!-- .HasChildren -->
 
 <div class="w3-dropdown-hover">
   <button class="w3-button          w3-hide-small w3-hide-medium header-nav-menu-dropdown-large"  ><i class=''></i>&nbsp;Resources</button>
   <button class="w3-button          w3-hide-small w3-hide-large  header-nav-menu-dropdown-medium" ><i class=''></i>&nbsp;Resources</button>
   <button class="w3-button w3-small w3-hide-medium w3-hide-large header-nav-menu-dropdown-small"  ><i class=''></i>&nbsp;Resources</button>
   <div class="w3-dropdown-content w3-bar-block w3-card-4" style="z-index: 2"> 
+        <!-- range .Children -->
     <a href='https://w3cwc.org//presentations' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Presentations</a>
     <a href='post/2021-04-05-study-guides' class="w3-bar-item w3-button"><i class=''></i>&nbsp;Study Options</a>
   </div> 
 </div>   
+      <!-- range first $.Site.Params.menutopbar.numOfItemsIfSmallDisplay .Site.Menus.topbar.ByWeight -->
+  <a href='https://w3cwc.org/search' target="_blank" class="w3-bar-item w3-button w3-right header-nav-menu-topbar-small" ><i class='fas fa-search'></i></a>
 </div> 
 
 </noscript>
 
+        <!-- back in _default/baseof.html  -->
       </header>
-      <div id="canvas" class='w3-container w3-theme-l4 '>
+      <div id="canvas" class='w3-container w3-theme-l4 '><!-- _default/single.html (headline)  -->
 
   <h1 class='w3-panel w3-theme-l2 '>2021 Ruritan Peach Festival
     <span style="float:right;"><a class="headline-button w3-btn" href="../"><i class="fas fa-arrow-up"></i></a><button id="btnback" class="headline-button w3-btn" style="visibility:hidden;" onclick="javascript:history.back()"   ><i class="fas fa-step-backward"></i></button></span>
   </h1>
 
 
+        <!-- block main _default/baseof.html  -->
         
-<div class="w3-right-align ">
-</div><br> 
-   
+  <!-- partials/head.blog.date.html -->
 
+  <!-- partials/main.taxonomy.current.html --><div class="w3-right-align ">
+</div><br>
+  <!-- partials/main.teaserpic.single.html --> 
+  
+  <!-- partials/resource.image.html  --> 
 
+ 
+  <!-- partials/main.toc.single.html -->
 
-        <p>Herman Niedzielski (K2AVA), ARA VP, recently received approval from the Lietersburg Ruritan to have a booth at the <a href="https://leitersburgruritan.org/peach-festival">2021 Annual Peach Festival</a> this coming weekend, August 14th and 15th; 9AM to 5PM.</p>
+        <!-- back in _default/baseof.html  -->
+        <!-- now Content  -->
+        
+            <p>Herman Niedzielski (K2AVA), ARA VP, recently received approval from the Lietersburg Ruritan to have a booth at the <a href="https://leitersburgruritan.org/peach-festival">2021 Annual Peach Festival</a> this coming weekend, August 14th and 15th; 9AM to 5PM.</p>
 <p>We are vividly aware of the compressed timeframe, and we are hoping to scramble as many volunteers as possible to staff the the Antietam Radion Assn exhibit. Volunteers will meet an greet the public, answer questions about ham radio, and serve as a spokeperson for the ARA, as well as for the Amateur Radio Service in general.</p>
 <p>We will have our 10x10 canopy and table, a radio, an MFJ CW keyer/reader, some books, pamphlets, our table cover and usual signage. <strong>The one missing ingredient is you!</strong> <em>This is an invitation for those willing to help!! <a href="mailto:k2ava@myactv.net">Call or email Herm</a> (see below) to let him when you are free to volunteer.</em></p>
 <p>We have done much more in less time &ndash; yes, it would have been a good idea to have tentatively gotten volunteers a month or two ago, but with the recently built Community Center and its inherited layout, the feasibility of the ARA booth remained unclear until now. Several of newer members were attendees at our booth in years past, and it is an excellent opportunity to visit with friends, talk radio, and to just <em>HAM it up!</em> We are hoping for another successful presentation at the Peach Festival this year.</p>
 <p><em>We can only operate a booth if we have the manpower to staff it.</em> Please let Herm know before Thursday if you would like to volunteer, so that he has the time necessary to plan appropriately.</p>
 <p><em>Pass it on!!</em> Herm&rsquo;s email and phone number are below:</p>
-<h2 id="herman-niedzielski">Herman Niedzielski</h2>
-<h2 id="k2avamyactvnet"><em><a href="mailto:k2ava@myactv.net">k2ava@myactv.net</a></em></h2>
-<h2 id="301-791-5841"><em>301-791-5841</em></h2>
-         
+<h2 id="herman-niedzielski">Herman Niedzielski&nbsp;<a class="anchor w3-small " href="#herman-niedzielski"><i class="fas fa-anchor"></i></a> </h2>
+<h2 id="k2avamyactvnet"><em><a href="mailto:k2ava@myactv.net">k2ava@myactv.net</a></em>&nbsp;<a class="anchor w3-small " href="#k2avamyactvnet"><i class="fas fa-anchor"></i></a> </h2>
+<h2 id="301-791-5841"><em>301-791-5841</em>&nbsp;<a class="anchor w3-small " href="#301-791-5841"><i class="fas fa-anchor"></i></a> </h2>
+        
+  <!-- partials/main.related.html -->
 
+
+   
+
+  <!-- partials/main.taxonomy.full.bar.html -->
 <div class='w3-card-4 w3-center w3-round-xxlarge w3-margin-top  w3-margin-bottom w3-theme-l1 '>
   <div class="w3-container w3-padding-small ">
 
 <br>
-   <a href='../../tags' class="taxonomy-button w3-button"><i class="fas fa-tags" aria-hidden="true"></i>&nbsp;Tags:</a>
-      <a href='../../tags/antenna' class="taxonomy-button w3-button">antenna (1)</a>
-      <a href='../../tags/board' class="taxonomy-button w3-button">board (1)</a>
-      <a href='../../tags/elections' class="taxonomy-button w3-button">elections (1)</a>
-      <a href='../../tags/event' class="taxonomy-button w3-button">event (1)</a>
-      <a href='../../tags/exam' class="taxonomy-button w3-button">exam (1)</a>
-      <a href='../../tags/field-day' class="taxonomy-button w3-button">field-day (1)</a>
-      <a href='../../tags/hamfest' class="taxonomy-button w3-button">hamfest (1)</a>
-      <a href='../../tags/license' class="taxonomy-button w3-button">license (1)</a>
-      <a href='../../tags/officer' class="taxonomy-button w3-button">officer (1)</a>
+   <a href='https://w3cwc.org/tags' class="taxonomy-button w3-button"><i class="fas fa-tags" aria-hidden="true"></i>&nbsp;Tags:</a>
+      <a href='https://w3cwc.org/tags/antenna' class="taxonomy-button w3-button">antenna (1)</a>
+      <a href='https://w3cwc.org/tags/board' class="taxonomy-button w3-button">board (1)</a>
+      <a href='https://w3cwc.org/tags/elections' class="taxonomy-button w3-button">elections (1)</a>
+      <a href='https://w3cwc.org/tags/event' class="taxonomy-button w3-button">event (1)</a>
+      <a href='https://w3cwc.org/tags/exam' class="taxonomy-button w3-button">exam (1)</a>
+      <a href='https://w3cwc.org/tags/field-day' class="taxonomy-button w3-button">field-day (1)</a>
+      <a href='https://w3cwc.org/tags/hamfest' class="taxonomy-button w3-button">hamfest (1)</a>
+      <a href='https://w3cwc.org/tags/license' class="taxonomy-button w3-button">license (1)</a>
+      <a href='https://w3cwc.org/tags/officer' class="taxonomy-button w3-button">officer (1)</a>
 
   </div> 
 </div> 
 
+        <!-- back in _default/baseof.html  -->
       </div>
+      <!-- canvas -->
 
       <footer>
         
+  <!-- partials/footer.html  -->
 <div id="footer" class='w3-container w3-theme-d5 '>
 
   <div class="w3-margin-bottom w3-row w3-mobile">
+      <!-- Site.Params.aboutUs  -->
     <div class="w3-col w3-third">
       <h4>About us</h4>
       <div class="notranslate"><p>General Email:
@@ -526,10 +761,13 @@ Post Office Box 52
 Hagerstown, MD 21741-0052</p>
 </div>
     </div>  
+      <!-- Site.Params.recentPosts  -->
     <div class="w3-col w3-third">
-      <h4>Recent Posts</h4> 
+      <h4>Recent Posts</h4>
+        <!-- range first Site.Params.footerNumOfPosts .Site.RegularPages "Section" "blog" --> 
 
     </div>    
+      <!-- Site.Params.address  -->
     <div id="address" class="w3-col w3-third">
       <h4>Contact</h4>
       <div class="notranslate"><p>Antietam Radio Association</p>
@@ -537,34 +775,53 @@ Hagerstown, MD 21741-0052</p>
 <p>Hagerstown, MD 21741-0052</p>
 </div><br/>
       
+        
+      <a href='https://w3cwc.org/contact/' class='w3-button w3-theme-l4 '>Go to contact page</a>
+        
+      
     </div>
 
   </div>  
 </div>  
 
+  <!-- partials/footer.bottom.html  -->
 <div class='w3-cell-row w3-small w3-theme-l3 '>
 
   <div class="w3-cell w3-cell-middle">
-    Copyright (c) 2022, *Stuff
+      <!-- $.Site.Params.bottomLeft  -->
+    Copyright (c) 2022, <em>ARA</em>
   </div> 
 
   <div class="w3-cell w3-cell-middle">
     <div class="w3-right">
+        <!-- $.Site.Params.bottomRight  -->
       created with <a href="https://gohugo.io">Hugo 0.101.0</a>
     </div> 
   </div>   
 
 </div>     
 
+        <!-- back in _default/baseof.html  -->
       
       </footer>
 
     </div>
+    <!-- all -->
     
+<!-- partials/scripts.bottom.html -->
 
-<script src='../../vendor/jquery/jquery-3.4.1.slim.min.js'></script> 
+<script src='https://w3cwc.org/vendor/jquery/jquery-3.4.1.slim.min.js'></script> 
+  <script>
+    function setStyleSheet(id){
+      var cssName    = document.getElementById(id).value;
+      var stylesheet = document.getElementById("theme-colors");
+      var cssPrefix  = 'https:\/\/w3cwc.org\/vendor\/w3css\/4\/'; 
+      var href       = cssPrefix.concat(cssName);
+      stylesheet.setAttribute('href', href);
+    }
+  </script>
 
-<script src='../../js/custom.bottom.js?1658113636'></script>
+<script src='https://w3cwc.org/js/custom.bottom.js?1659408165'></script>
 
 
     <script>
@@ -575,4 +832,5 @@ Hagerstown, MD 21741-0052</p>
 
   </body>
   
+  <!-- partials/debug.html  -->
 </html>

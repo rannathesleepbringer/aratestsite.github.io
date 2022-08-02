@@ -4,7 +4,7 @@ layoutdir     = "layouts"
 publishdir    = "docs"
 title = "Antietam Radio"
 canonifyurls  = true
-relativeURLs = true
+#relativeURLs = true
 
 DefaultContentLanguage = "en"
 theme = "hugo-theme-w3css-basic"
